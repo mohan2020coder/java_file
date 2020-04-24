@@ -1,0 +1,3 @@
+here we are using > for output
+whereas < is used for input
+observe use it...
